@@ -25,8 +25,7 @@ git clone https://github.com/foxiyofox/kernel-a12s-modded.git
 ```
 2. clone toolchain
 ```
-git clone https://github.com/theshoqanebi/aarch64-linux-android-4.9.git android_samsung_a12_kernel/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
-git clone https://github.com/theshoqanebi/clang-r353983c.git android_samsung_a12_kernel/toolchain/clang/host/linux-x86/clang-r353983c
+git clone https://github.com/foxiyofox/toolchain_clang-r383902_gcc4.9.git
 ```
 3. build kernel (output path = `out/arch/arm64/boot/Image`)
 ```
